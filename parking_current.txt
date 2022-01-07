@@ -1,0 +1,40 @@
+1 Nairn_David 43
+0 Nickleby_Nick 26
+0 Patel_Muhammad 15
+1 Dyck_Karen 44
+1 Lokker_Shirley 50
+0 Martins_Joshua 33
+1 Bishop_Bill 37
+1 Davison_Dan 11
+0 Rolls_Cindy 28
+1 Stachowsky_Michael 17
+1 Consell_Ryan 21
+0 Oh_Henry 36
+1 Beltaos_Andrew 39
+1 Dunbar_Fiona 48
+0 Hitchinson_Joan 31
+1 Chandrashekar_Naveen 16
+1 Owen_Bill 6
+0 Reed_Jim 32
+1 Morton_Andrew 42
+1 Hulls_Carol 1
+0 Ladouceur_Yvonne 35
+1 Trelford_Ryan 9
+1 Ward_Valerie 30
+1 Cramer_Zachary 24
+1 Babaee_Reza 18
+0 Tiger_Lily 19
+1 Brown_Natalie 14
+0 Wang_Tom 41
+1 Meunier_Sarah 47
+1 Lau_David 49
+0 Nassar_Ahmed 29
+1 Harder_Douglas 20
+0 Kim_Chuck 10
+1 Mansour_Firas 23
+1 Hamilton_Jordan 25
+0 Parks_Flora 45
+
+
+
+
